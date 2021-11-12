@@ -9,6 +9,7 @@ and associativity.
 Then evaluating an Abstract Syntax Tree representation of an arithmetic expression to compute the answer.
 
 HOW TO RUN PROGRAM:
+    
     1.) Open Visual Studio Code
 
     2.) Make sure the Python extension is installed [Extension Identifier: ms-python.python]
